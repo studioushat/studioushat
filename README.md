@@ -1,4 +1,4 @@
-hello! i'm studioushat
+hello! i'm studioushat (also sentience)
 
 i do c++, python, javascript, and html
 
